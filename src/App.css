@@ -1,0 +1,7 @@
+#react1, #react2, #react3, #react4, #react6, #react5 {
+  opacity: 0;
+}
+
+#react1.active, #react2.active, #react3.active, #react4.active, #react6.active, #react5.active {
+  opacity: 1;
+}
